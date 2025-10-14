@@ -49,7 +49,7 @@ hobbies: ["gaming", "psychology", "basketball"]
 [![Bahry's GitHub stats](https://github-readme-stats.vercel.app/api?username=BahryJarbou&show_icons=true&theme=gruvbox)](https://github.com/BahryJarbou/github-readme-stats)
 ## My Contribution Graph
 
-<picture>
+<picture align="right">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BahryJarbou/BahryJarbou/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BahryJarbou/BahryJarbou/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BahryJarbou/BahryJarbou/output/pacman-contribution-graph.svg">
