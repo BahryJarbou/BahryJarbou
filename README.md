@@ -1,5 +1,7 @@
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hey%20rWonderful%20rWanderers!%20r👋🏼%20r🎮%20render&fontSize=90" />
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20rWonderful%20rWonderers!🎮 &animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 </p>
 <a href="https://www.linkedin.com/in/bahryjarbou">
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e915880e-612e-4a9f-a839-5acbdcd7be6d" />
