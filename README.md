@@ -10,5 +10,5 @@
 </div>
 <br/>
 <div align="center">
-<img width="400" height="200" alt="image" src="https://tenor.com/bY47P.gif"/>
+<img width="220" height="138" alt="image" src="https://tenor.com/pYvilBoPNsI.gif"/>
 </div>
