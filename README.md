@@ -48,10 +48,10 @@ hobbies: ["gaming", "psychology", "basketball"]
 
 
 <a href="https://github.com/BahryJarbou/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=BahryJarbou&show_icons=true&card_width=535&theme=gruvbox" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=BahryJarbou&show_icons=true&card_width=500&theme=gruvbox" />
 </a>
 <a href="https://github.com/BahryJarbou/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BahryJarbou&layout=compact&langs_count=8&card_width=535&theme=gruvbox" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BahryJarbou&layout=compact&langs_count=8&card_width=500&theme=gruvbox" />
 </a>
 <picture align="right">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BahryJarbou/BahryJarbou/output/pacman-contribution-graph-dark.svg">
