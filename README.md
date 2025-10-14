@@ -6,9 +6,9 @@
 
 <div align="center">
 <a align="center" href="https://www.linkedin.com/in/bahryjarbou" textdecoration="none"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b4dacd16-76ea-4e4f-9876-5bc99bc70a65" target="_blank"/></a>
-<a align="center" href="https://dev.to/bahryjarbou" textdecoration="none"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0a1211b4-d28f-4088-93a2-0d75ecb3f344"/ target="_blank"></a> 
+<a align="center" href="https://dev.to/bahryjarbou" textdecoration="none"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0a1211b4-d28f-4088-93a2-0d75ecb3f344"/></a> 
 </div>
 <br/>
 <div align="center">
- <img width="200" height="200" src="https://i.pinimg.com/originals/a9/cd/27/a9cd27d600749e588be63ff638c10651.gif"/>
+<img width="50" height="50" alt="image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzcxNG1zamhzdmlrN3huMnk0bDliemprbzJiZzI5bG5zbGVvcjEwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iurIHLBxms7UQ/giphy.gif"/">
 </div>
