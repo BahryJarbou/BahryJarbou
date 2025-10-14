@@ -1,6 +1,6 @@
 <p align="center">
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20rWonderful%20rWonderers!🎮&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20rWonderful%20rWonderers!🎮&animation=fadeIn&type=waving&color=gradient&height=100&fontSize=30"/>
 </p>
 </p>
 <a href="https://www.linkedin.com/in/bahryjarbou">
