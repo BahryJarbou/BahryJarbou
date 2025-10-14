@@ -48,3 +48,5 @@ hobbies: ["gaming", "psychology", "basketball"]
 
 [![Bahry's GitHub stats](https://github-readme-stats.vercel.app/api?username=BahryJarbou&show_icons=true&theme=gruvbox)](https://github.com/BahryJarbou/github-readme-stats)
 ![Snake animation](https://github.com/BahryJarbou/BahryJarbou/blob/output/github-contribution-grid-snake.svg)
+<br/>
+
