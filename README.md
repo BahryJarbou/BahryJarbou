@@ -10,5 +10,5 @@
 </div>
 <br/>
 <div align="center">
-<img width="50" height="50" alt="image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzcxNG1zamhzdmlrN3huMnk0bDliemprbzJiZzI5bG5zbGVvcjEwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iurIHLBxms7UQ/giphy.gif"/">
+<img width="400" height="200" alt="image" src="https://tenor.com/view/robert-deniro-you-analyze-this-point-to-the-right-pointing-gif-26911699"/>
 </div>
