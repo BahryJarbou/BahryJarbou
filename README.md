@@ -9,6 +9,6 @@
 <a align="center" href="https://dev.to/bahryjarbou" textdecoration="none"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0a1211b4-d28f-4088-93a2-0d75ecb3f344"/></a> 
 </div>
 <br/>
-<div align="center">
-<img width="220" height="138" alt="image" src="https://tenor.com/pYvilBoPNsI.gif"/>
-</div>
+
+<img width="600" height="338" alt="image" src="https://i.pinimg.com/originals/0d/f8/84/0df884e743e1dd1c696a315fa36a5c95.gif"/>
+
