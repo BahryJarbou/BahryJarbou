@@ -4,7 +4,8 @@
 
 <p align="center">Hit Me Up & Let's Get In Touch 💬</p>
 
-<div align="center" display="flex">
-<a href="https://www.linkedin.com/in/bahryjarbou" textdecoration="none"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b4dacd16-76ea-4e4f-9876-5bc99bc70a65" target="_blank"/></a>
-<a href="https://dev.to/bahryjarbou" textdecoration="none"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0a1211b4-d28f-4088-93a2-0d75ecb3f344"/ target="_blank"></a> 
+<div align="center">
+<a align="center" href="https://www.linkedin.com/in/bahryjarbou" textdecoration="none"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b4dacd16-76ea-4e4f-9876-5bc99bc70a65" target="_blank"/></a>
+<a align="center" href="https://dev.to/bahryjarbou" textdecoration="none"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0a1211b4-d28f-4088-93a2-0d75ecb3f344"/ target="_blank"></a> 
 </div>
+<br/>
